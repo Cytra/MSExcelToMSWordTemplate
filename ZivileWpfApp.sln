@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZivileWpfApp", "ZivileWpfApp\ZivileWpfApp.csproj", "{07DB0EDB-F83C-4535-B32B-DA975CF87ABB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07DB0EDB-F83C-4535-B32B-DA975CF87ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DB0EDB-F83C-4535-B32B-DA975CF87ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DB0EDB-F83C-4535-B32B-DA975CF87ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DB0EDB-F83C-4535-B32B-DA975CF87ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADA61D9D-8E39-412E-8C64-4C14C4C00538}
+	EndGlobalSection
+EndGlobal
